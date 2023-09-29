@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7a54d68a.css",
-    "main.js": "/react-homework-template/static/js/main.2a87f03e.js",
-    "static/media/1609.m00.i125.n001.S.c12.198623492 Topographic contour lines vector map seamless pattern.jpg": "/react-homework-template/static/media/1609.m00.i125.n001.S.c12.198623492 Topographic contour lines vector map seamless pattern.7aef59d862d58d0ddde6.jpg",
-    "static/media/Изображение.jpg": "/react-homework-template/static/media/Изображение.4794253be4f6b887163e.jpg",
-    "static/media/CDR.WA-6ae5e51a.png": "/react-homework-template/static/media/CDR.WA-6ae5e51a.c327522112608852911a.png",
-    "static/media/425px-PEGI_18.svg.png": "/react-homework-template/static/media/425px-PEGI_18.svg.067e5620e779206699cb.png",
-    "static/media/PS5_logo.png": "/react-homework-template/static/media/PS5_logo.2649f964c00694e0695d.png",
-    "index.html": "/react-homework-template/index.html",
-    "main.7a54d68a.css.map": "/react-homework-template/static/css/main.7a54d68a.css.map",
-    "main.2a87f03e.js.map": "/react-homework-template/static/js/main.2a87f03e.js.map"
+    "main.css": "/Atropos-test/static/css/main.4011add8.css",
+    "main.js": "/Atropos-test/static/js/main.2a87f03e.js",
+    "static/media/1609.m00.i125.n001.S.c12.198623492 Topographic contour lines vector map seamless pattern.jpg": "/Atropos-test/static/media/1609.m00.i125.n001.S.c12.198623492 Topographic contour lines vector map seamless pattern.7aef59d862d58d0ddde6.jpg",
+    "static/media/Изображение.jpg": "/Atropos-test/static/media/Изображение.4794253be4f6b887163e.jpg",
+    "static/media/CDR.WA-6ae5e51a.png": "/Atropos-test/static/media/CDR.WA-6ae5e51a.c327522112608852911a.png",
+    "static/media/425px-PEGI_18.svg.png": "/Atropos-test/static/media/425px-PEGI_18.svg.067e5620e779206699cb.png",
+    "static/media/PS5_logo.png": "/Atropos-test/static/media/PS5_logo.2649f964c00694e0695d.png",
+    "index.html": "/Atropos-test/index.html",
+    "main.4011add8.css.map": "/Atropos-test/static/css/main.4011add8.css.map",
+    "main.2a87f03e.js.map": "/Atropos-test/static/js/main.2a87f03e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a54d68a.css",
+    "static/css/main.4011add8.css",
     "static/js/main.2a87f03e.js"
   ]
 }
