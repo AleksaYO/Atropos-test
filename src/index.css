@@ -13,3 +13,88 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#app {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px auto;
+}
+
+.box {
+  width: 200px;
+  height: 300px;
+  background-image: url(../image/Изображение.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid blue;
+}
+
+.box-label {
+  width: 95%;
+  height: 30px;
+  background-color: white;
+  padding-left: 10px;
+  border-bottom: 1px solid black;
+}
+
+.box-logo {
+  width: 30%;
+  height: 100%;
+  background-image: url(../image/PS5_logo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.name-logo {
+  margin-top: 130px;
+  margin-left: 25px;
+}
+
+.box-info {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.info-list {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+}
+
+.pegi-18 {
+  width: 20px;
+  height: 40px;
+  background-image: url(../image/425px-PEGI_18.svg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.CD-Project {
+  width: 20px;
+  background-image: url(../image/CDR.WA-6ae5e51a.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.background {
+  width: 500px;
+  height: 500px;
+  background-image: url(../image/1609.m00.i125.n001.S.c12.198623492\ Topographic\ contour\ lines\ vector\ map\ seamless\ pattern.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
